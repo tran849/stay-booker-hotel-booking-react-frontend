@@ -1,6 +1,6 @@
 {
   "name": "stay-booker-hotel-booking-react-frontend",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "A Responsive Hotel Booking Website - Built with React and Tailwind CSS. Features production-ready code, comprehensive testing, and with Express.js backend.",
   "main": "src/index.js",
   "scripts": {
